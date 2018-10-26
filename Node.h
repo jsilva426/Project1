@@ -1,4 +1,6 @@
 // Node.h
+// Modified by Jacob Silva
+//COSC 2030
 
 // tom bailey   0755  05 oct 2010
 // Declare the Node class.
