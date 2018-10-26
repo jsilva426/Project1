@@ -1,3 +1,7 @@
+//Node.cpp
+//Modified by jacob silva
+//COSC 2030
+
 // Node.cpp
 // tom bailey   1050  31 jan 2011
 // Definitions of the Node class methods
